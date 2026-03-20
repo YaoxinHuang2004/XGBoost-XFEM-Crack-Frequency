@@ -85,12 +85,15 @@ Two methods implemented:
 ### Key Equations
 
 - **Singular eigenvalues:** $-1 < \text{Re}(\lambda) < 0$ (corresponding to $r^{-1/2}$ singularity)
+  
 
 - **SIF from stress:** $\{K_I;K_{II}\}=\sqrt{2\pi L_0}\times\{\Psi_{yy}^s;\Psi_{xy}^s\}\times c^s$
-
-- **SIF from displacement:**
-  $\{K_I;K_{II}\}=\frac{G}{\kappa+1}\times\sqrt{\frac{2\pi}{r_0}}\times\{\Delta u_y;\Delta u_x\}$
   
+
+- **SIF from displacement:** $\{K_I;K_{II}\}=\frac{G}{\kappa+1}\times\sqrt{\frac{2\pi}{r_0}}\times\{\Delta u_y;\Delta u_x\}$
+
+
+
 ![untitled1](https://github.com/user-attachments/assets/e7b87a86-3062-4d24-912f-856ee2d937c6)
 
 ## Notes
