@@ -87,13 +87,11 @@ Two methods implemented:
 - **Singular eigenvalues:** $-1 < \text{Re}(\lambda) < 0$ (corresponding to $r^{-1/2}$ singularity)
 
 - **SIF from stress:**
-  
   $$
   \begin{Bmatrix} K_I \\ K_{II} \end{Bmatrix} = \sqrt{2\pi L_0} \begin{Bmatrix} \Psi_{yy}^s \\ \Psi_{xy}^s \end{Bmatrix} c^s
   $$
 
 - **SIF from displacement:**
-  
   $$
   \begin{Bmatrix} K_I \\ K_{II} \end{Bmatrix} = \frac{G}{\kappa + 1} \sqrt{\frac{2\pi}{r_0}} \begin{Bmatrix} \Delta u_y \\ \Delta u_x \end{Bmatrix}
   $$
