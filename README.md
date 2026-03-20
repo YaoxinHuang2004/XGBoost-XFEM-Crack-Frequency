@@ -88,7 +88,7 @@ Two methods implemented:
 
 - **SIF from stress:**
 
-  $$\begin{Bmatrix} K_I \\ K_{II} \end{Bmatrix} = \sqrt{2\pi L_0} \begin{Bmatrix} \Psi_{yy}^s \\ \Psi_{xy}^s \end{Bmatrix} c^s$$
+  $\{K_I;K_{II}\}=\sqrt{2\pi L_0}\times\{\Psi_{yy}^s;\Psi_{xy}^s\}\times c^s$
 
 - **SIF from displacement:**
 
