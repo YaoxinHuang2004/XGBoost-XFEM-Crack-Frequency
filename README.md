@@ -85,6 +85,7 @@ Two methods implemented:
 - Singular eigenvalues: −1 < Re(λ) < 0 (corresponding to r^{−1/2} singularity)
 - SIF from stress: {KI; KII} = √(2πL₀) × {Ψ_yy^s; Ψ_xy^s} × c^s
 - SIF from displacement: {KI; KII} = G/(κ+1) × √(2π/r₀) × {Δu_y; Δu_x}
+![untitled1](https://github.com/user-attachments/assets/e7b87a86-3062-4d24-912f-856ee2d937c6)
 
 ## Notes
 
