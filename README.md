@@ -98,6 +98,9 @@ Two methods implemented:
 
 ![untitled1](https://github.com/user-attachments/assets/e7b87a86-3062-4d24-912f-856ee2d937c6)
 
+![Uploading image.png…]()
+
+
 ## Notes
 
 - The mesh grading parameter (grade_power) concentrates elements near the 
