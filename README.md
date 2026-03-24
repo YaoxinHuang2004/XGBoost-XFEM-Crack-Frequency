@@ -1,4 +1,4 @@
-<img width="1062" height="1134" alt="image" src="https://github.com/user-attachments/assets/4d731cd5-9a63-4c99-8b0b-574d6d3d9a54" /># XSBFEM-XGBoost Crack Frequency Prediction
+# XSBFEM-XGBoost Crack Frequency Prediction
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://img.shields.io/badge/DOI-Pending-blue.svg)](https://doi.org/...) 
